@@ -96,7 +96,7 @@ else{
           <a class="nav-link" id="links" href="logout.php" onclick="return confirmLogout()">logout</a>
         </li>
         <li class="nav-item" style="margin-top:10px;">
-          <a class="nav-link" id="links" style="padding:0;margin-left: 490px" href="#"><p style="margin: 0;"> <img src="images/user.png" alt="" style="width:20px; hight:20px;"> <span><?php echo $_SESSION['user'] ?></span></p></a>
+          <a class="nav-link" id="links" style="padding:0;margin-left: 490px" href="#"><p style="margin: 0;">ahmad.hjazi.109@gmail.com</p></a>
         </li>
       </ul>
     </div>
